@@ -19,7 +19,7 @@ for (var i = 1; i <= 5; i++) {
 }
 ```
 <p align="center">
-    <img width="640" height="480" src="assets/3.png">
+    <img width="640" height="480" src="assets/2.png">
 </p>
 
 ##  Wiring up the Darken/Lighten button
