@@ -10,7 +10,7 @@
 
 ## Looping through images:
 
-```
+```javascript
 for (var i = 1; i <= 5; i++) {
     var newImage = document.createElement('img');
     newImage.setAttribute('src', 'images/pic' + i + '.jpg');
@@ -24,7 +24,7 @@ for (var i = 1; i <= 5; i++) {
 
 ##  Wiring up the Darken/Lighten button
 
-```
+```javascript
 btn.onclick = function() {
     var btnClass = btn.getAttribute('class');
     if (btnClass === 'dark') {
