@@ -42,4 +42,4 @@ btn.onclick = function() {
 
 ## License
 
-Photo.Gallery is available under the MIT license.
+`Photo.Gallery` is available under the MIT license.
