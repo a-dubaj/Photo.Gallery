@@ -1,9 +1,12 @@
 # Photo Gallery 
 
 [Link to gallery](https://coffeina.github.io/Photo.Gallery/)
-<div style="text-align:center" markdown="1">
-    ![screenshot1](assets/1.png)
-</div>
+<p align="center">
+  <img width="460" height="300" src="assets/1.png">
+</p>
+
+![screenshot1](assets/1.png)
+
 
 ## Looping through images:
 
