@@ -4,10 +4,6 @@
 
 ![screenshot1](assets/1.png)
 
-![screenshot2](assets/2.png)
-
-![screenshot1](assets/3.png)
-
 ## Looping through images:
 
 ```javascript
@@ -21,6 +17,8 @@ for (var i = 1; i <= 5; i++) {
     }
 }
 ```
+
+![screenshot2](assets/2.png)
 
 ##  Wiring up the Darken/Lighten button
 
@@ -38,6 +36,9 @@ btn.onclick = function() {
     }
 }
 ```
+
+![screenshot1](assets/3.png)
+
 
 ## License
 
