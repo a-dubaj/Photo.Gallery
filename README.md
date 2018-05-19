@@ -2,11 +2,8 @@
 
 [Link to gallery](https://coffeina.github.io/Photo.Gallery/)
 <p align="center">
-  <img width="460" height="300" src="assets/1.png">
+  <img width="640" height="480" src="assets/1.png">
 </p>
-
-![screenshot1](assets/1.png)
-
 
 ## Looping through images:
 
@@ -21,8 +18,9 @@ for (var i = 1; i <= 5; i++) {
     }
 }
 ```
-
-![screenshot2](assets/2.png)
+<p align="center">
+    <img width="640" height="480" src="assets/3.png">
+</p>
 
 ##  Wiring up the Darken/Lighten button
 
@@ -41,7 +39,9 @@ btn.onclick = function() {
 }
 ```
 
-![screenshot1](assets/3.png)
+<p align="center">
+    <img width="640" height="480" src="assets/3.png">
+</p>
 
 
 ## License
